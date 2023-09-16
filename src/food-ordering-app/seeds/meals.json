@@ -1,0 +1,22 @@
+{
+    "m1": {
+        "description": "Finest fish and veggies",
+        "name": "Shusi",
+        "price": 22.69
+    },
+    "m2": {
+        "description": "A german specialty!",
+        "name": "Schnitzel",
+        "price": 16.5
+    },
+    "m3": {
+        "description": "American, raw, meaty",
+        "name": "Barbecue Burger",
+        "price": 12.99
+    },
+    "m4": {
+        "description": "Healthy...and green...",
+        "name": "Green Bowl",
+        "price": 18.99
+    }
+}
